@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HitssIngreso", "HitssIngreso\HitssIngreso.csproj", "{B61C4A46-BF71-4F01-85E8-D87A04101DA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HitssIngresoBusinessLogic", "HitssIngresoBusinessLogic\HitssIngresoBusinessLogic.csproj", "{5901FDBA-0570-4D6C-908E-4EB88F6DF6C3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{E4828041-A4E4-4FFB-9289-BEA768418744}"
+	ProjectSection(SolutionItems) = preProject
+		ScriptDDL.sql = ScriptDDL.sql
+		ScriptDML.sql = ScriptDML.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B61C4A46-BF71-4F01-85E8-D87A04101DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B61C4A46-BF71-4F01-85E8-D87A04101DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B61C4A46-BF71-4F01-85E8-D87A04101DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B61C4A46-BF71-4F01-85E8-D87A04101DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5901FDBA-0570-4D6C-908E-4EB88F6DF6C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5901FDBA-0570-4D6C-908E-4EB88F6DF6C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5901FDBA-0570-4D6C-908E-4EB88F6DF6C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5901FDBA-0570-4D6C-908E-4EB88F6DF6C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6034157-5FD4-4BE5-A887-84431F2CE905}
+	EndGlobalSection
+EndGlobal

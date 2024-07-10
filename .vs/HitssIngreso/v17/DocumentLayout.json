@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JHON\\source\\repos\\HitssIngreso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B61C4A46-BF71-4F01-85E8-D87A04101DA2}|HitssIngreso\\HitssIngreso.csproj|c:\\users\\jhon\\source\\repos\\hitssingreso\\hitssingreso\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61C4A46-BF71-4F01-85E8-D87A04101DA2}|HitssIngreso\\HitssIngreso.csproj|solutionrelative:hitssingreso\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61C4A46-BF71-4F01-85E8-D87A04101DA2}|HitssIngreso\\HitssIngreso.csproj|c:\\users\\jhon\\source\\repos\\hitssingreso\\hitssingreso\\reports\\ventas.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{B61C4A46-BF71-4F01-85E8-D87A04101DA2}|HitssIngreso\\HitssIngreso.csproj|solutionrelative:hitssingreso\\reports\\ventas.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5901FDBA-0570-4D6C-908E-4EB88F6DF6C3}|HitssIngresoBusinessLogic\\HitssIngresoBusinessLogic.csproj|C:\\Users\\JHON\\source\\repos\\HitssIngreso\\hitssingresobusinesslogic\\models\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5901FDBA-0570-4D6C-908E-4EB88F6DF6C3}|HitssIngresoBusinessLogic\\HitssIngresoBusinessLogic.csproj|solutionrelative:hitssingresobusinesslogic\\models\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61C4A46-BF71-4F01-85E8-D87A04101DA2}|HitssIngreso\\HitssIngreso.csproj|C:\\Users\\JHON\\source\\repos\\HitssIngreso\\hitssingreso\\views\\reportes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B61C4A46-BF71-4F01-85E8-D87A04101DA2}|HitssIngreso\\HitssIngreso.csproj|solutionrelative:hitssingreso\\views\\reportes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61C4A46-BF71-4F01-85E8-D87A04101DA2}|HitssIngreso\\HitssIngreso.csproj|C:\\Users\\JHON\\source\\repos\\HitssIngreso\\hitssingreso\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B61C4A46-BF71-4F01-85E8-D87A04101DA2}|HitssIngreso\\HitssIngreso.csproj|solutionrelative:hitssingreso\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ventas.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\HitssIngreso\\HitssIngreso\\Reports\\Ventas.rdlc",
+              "RelativeDocumentMoniker": "HitssIngreso\\Reports\\Ventas.rdlc",
+              "ToolTip": "C:\\Users\\JHON\\source\\repos\\HitssIngreso\\HitssIngreso\\Reports\\Ventas.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "HitssIngreso\\Reports\\Ventas.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-07-10T11:41:29.294Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\HitssIngreso\\HitssIngresoBusinessLogic\\Models\\Ventas.cs",
+              "RelativeDocumentMoniker": "HitssIngresoBusinessLogic\\Models\\Ventas.cs",
+              "ToolTip": "C:\\Users\\JHON\\source\\repos\\HitssIngreso\\HitssIngresoBusinessLogic\\Models\\Ventas.cs",
+              "RelativeToolTip": "HitssIngresoBusinessLogic\\Models\\Ventas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:55:02.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\HitssIngreso\\HitssIngreso\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "HitssIngreso\\Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\JHON\\source\\repos\\HitssIngreso\\HitssIngreso\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "HitssIngreso\\Views\\Clientes\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T09:12:20.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\HitssIngreso\\HitssIngreso\\Views\\Reportes\\Index.cshtml",
+              "RelativeDocumentMoniker": "HitssIngreso\\Views\\Reportes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\JHON\\source\\repos\\HitssIngreso\\HitssIngreso\\Views\\Reportes\\Index.cshtml",
+              "RelativeToolTip": "HitssIngreso\\Views\\Reportes\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T09:04:06.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportesController.cs",
+              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\HitssIngreso\\HitssIngreso\\Controllers\\ReportesController.cs",
+              "RelativeDocumentMoniker": "HitssIngreso\\Controllers\\ReportesController.cs",
+              "ToolTip": "C:\\Users\\JHON\\source\\repos\\HitssIngreso\\HitssIngreso\\Controllers\\ReportesController.cs",
+              "RelativeToolTip": "HitssIngreso\\Controllers\\ReportesController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAlwDcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T09:03:20.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿@model HitssIngresoBusinessLogic.Models.Cliente
+
+@{
+    ViewBag.Title = "Eliminar";
+}
+
+<h2>Eliminar</h2>
+
+<h3>¿Quiere eliminar el cliente?</h3>
+<div>
+    <h4>Cliente</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CodigoCliente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CodigoCliente)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreCliente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreCliente)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+        <br />
+        <div class="form-actions no-color">
+            <input type="submit" value="Eliminar" class="btn btn-dark" /> |
+            @Html.ActionLink("Volver", "Index")
+        </div>
+    }
+</div>

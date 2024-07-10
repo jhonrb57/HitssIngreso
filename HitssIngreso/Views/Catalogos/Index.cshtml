@@ -1,0 +1,44 @@
+﻿@model IEnumerable<HitssIngresoBusinessLogic.Models.Producto>
+
+@{
+    ViewBag.Title = "Catalogo";
+}
+
+<h2>Catalogo</h2>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Catalogo</title>
+</head>
+<body>
+    @using (Html.BeginForm("Comprar", "Catalogos", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        @Html.AntiForgeryToken()
+        foreach (var item in Model)
+        {
+            string simbolo = "$" + item.Precio;
+
+            <button class="image-button" tabindex="0">
+                <img src="@Url.Action("GetImagen", "Productos", new { id = item.IdProducto })" width="100" height="100" />
+            </button>
+            <br />
+            @Html.DisplayFor(modelItem => simbolo)
+            <br />
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    @Html.ActionLink("Detalles", "Details", new { id = item.IdProducto })
+                </div>
+            </div>
+            <br />
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    @Html.ActionLink("Comprar", "Comprar", new { id = item.IdProducto })
+                </div>
+            </div>
+        }
+    }
+</body>
+</html>

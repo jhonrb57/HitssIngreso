@@ -1,0 +1,12 @@
+C:\Users\JHON\source\repos\HitssIngreso\HitssIngresoBusinessLogic\bin\Debug\HitssIngresoBusinessLogic.dll.config
+C:\Users\JHON\source\repos\HitssIngreso\HitssIngresoBusinessLogic\bin\Debug\HitssIngresoBusinessLogic.dll
+C:\Users\JHON\source\repos\HitssIngreso\HitssIngresoBusinessLogic\bin\Debug\HitssIngresoBusinessLogic.pdb
+C:\Users\JHON\source\repos\HitssIngreso\HitssIngresoBusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\JHON\source\repos\HitssIngreso\HitssIngresoBusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JHON\source\repos\HitssIngreso\HitssIngresoBusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\JHON\source\repos\HitssIngreso\HitssIngresoBusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JHON\source\repos\HitssIngreso\HitssIngresoBusinessLogic\obj\Debug\HitssIngresoBusinessLogic.csproj.AssemblyReference.cache
+C:\Users\JHON\source\repos\HitssIngreso\HitssIngresoBusinessLogic\obj\Debug\HitssIngresoBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\JHON\source\repos\HitssIngreso\HitssIngresoBusinessLogic\obj\Debug\HitssIng.5566CAA6.Up2Date
+C:\Users\JHON\source\repos\HitssIngreso\HitssIngresoBusinessLogic\obj\Debug\HitssIngresoBusinessLogic.dll
+C:\Users\JHON\source\repos\HitssIngreso\HitssIngresoBusinessLogic\obj\Debug\HitssIngresoBusinessLogic.pdb
