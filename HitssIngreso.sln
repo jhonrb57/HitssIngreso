@@ -7,12 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HitssIngreso", "HitssIngres
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HitssIngresoBusinessLogic", "HitssIngresoBusinessLogic\HitssIngresoBusinessLogic.csproj", "{5901FDBA-0570-4D6C-908E-4EB88F6DF6C3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{E4828041-A4E4-4FFB-9289-BEA768418744}"
-	ProjectSection(SolutionItems) = preProject
-		ScriptDDL.sql = ScriptDDL.sql
-		ScriptDML.sql = ScriptDML.sql
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
