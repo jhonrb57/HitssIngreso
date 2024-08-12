@@ -3,14 +3,6 @@
     Layout = null;
 }
 
-<!DOCTYPE html>
-<!-- jQuery -->
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
-<!-- jQuery UI -->
-<link rel="stylesheet" href="https://code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
-<script src="https://code.jquery.com/ui/1.13.1/jquery-ui.min.js"></script>
-
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
@@ -26,24 +18,15 @@
     @using (Html.BeginForm("Generar", "Reportes", FormMethod.Post))
     {
         <div class="form-group">
-            <label for="datepicker">Seleccione fecha inicial:</label>
-            <input type="text" id="datepickeri" name="FechaInicial" class="form-control" />
+            <label>Seleccione fecha inicial:</label>
+            <input type="date" name="FechaInicial" class="form-control" />
         </div>
         <div class="form-group">
-            <label for="datepicker">Seleccione fecha final:</label>
-            <input type="text" id="datepickerf" name="FechaFinal" class="form-control" />
+            <label>Seleccione fecha final:</label>
+            <input type="date" name="FechaFinal" class="form-control" />
         </div>
         <button type="submit" class="btn btn-primary">Generar</button>
     }
-
-    <script>
-        $(function () {
-            $("#datepickeri").datepicker();
-        });
-        $(function () {
-            $("#datepickerf").datepicker();
-        });
-    </script>
 
 </body>
 </html>
